@@ -39,7 +39,14 @@ Notes from the text are found at https://github.com/cmcntsh/NotesJHEvidenceBased
   * NIH RePORTER Research Portfolio Online Reporting Tool http://report.nih.gov
   * Google Scholar http://scholar.google.com
   * JBI (Joanna Briggs Institute) https://jbi.global/
+  * National Institute for Health and Care Excellence (NICE) https://www.nice.org.uk
+  * AHRQ Evidence-Based Practice Center https://www.ahrq.gov/research/findings/evidence-based-reports/index.html
+  * ECRI Guidelines Trust https://guidelines.ecri.org/
+  * Guidelines Central https://www.guidelinecentral.com
+  * World Health Organization Guidelines https://www.who.int/publications/who-guidelines
   * Eccles Library academic databases https://library.med.utah.edu/km/a2z_db.php
   * PsychINFO
+  * Embase database - clinical practice questions
+  * Epistemonikos database
   * Health and Psychosocial Instruments (HaPI)
-  * Physiotherapy Evidence Database (PEDro)
+  * Physiotherapy Evidence Database (PEDro) https://pedro.org.au/
